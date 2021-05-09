@@ -1,14 +1,14 @@
-<h1 align="center">ISS Tracker</h3>
+<h1 align="center">Discord Animated Status</h3>
 
   <p align="center">
-    Track the latitude & longitude of the International Space Station
+    A simple piece of code to animate your Disocrd status
     <br />
-    <a href="https://github.com/semmoolenschot/ISS-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/semmoolenschot/Discord-Animated-Status-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/semmoolenschot/ISS-tracker/issues">Report Bug</a>
+    <a href="https://github.com/semmoolenschot/Discord-Animated-Status/issues">Report Bug</a>
     ·
-    <a href="https://github.com/semmoolenschot/ISS-tracker/issues">Request Feature</a>
+    <a href="https://github.com/semmoolenschot/Discord-Animated-Status/issues">Request Feature</a>
 
 ---
 ### Table of Contents
@@ -20,22 +20,21 @@
 
 ## Description
 
-#### International Space Station
+#### Status
 
-- The ISS is a modular space station in low Earth orbit.  It is a multinational collaborative project involving five participating space agencies: NASA (United States), Roscosmos (Russia), JAXA (Japan), ESA (Europe), and CSA (Canada). The ISS was originally intended to be a laboratory, observatory, and factory while providing transportation, maintenance, and a low Earth orbit staging base for possible future missions to the Moon, Mars, and asteroids. However not all of the uses envisioned and now its mainly used to conduct scientific research, with power, data, cooling, and crew available to support experiments. 
-- We can check who's inside the ISS and the latitude & longitute by using the [Open Notify API](http://open-notify.org).
+- Your Discord status can be used to let other people on the app know whether you're online/offline or you can set a custom status. By using this code you can stand out and animate this status by looping the text and using emojis.
 
 ---
 
 #### Features
-- Get the latitude & longitude of the ISS every 5 seconds
-- Get the names of the people inside every minute
+- Pick a delay for the loop of your status
+- Set a custom emoji
 
 ---
 
 ## How to use
 
-- Use ``python3 iss_tracker.py``
+- Use ``python3 animate.py``
 - Make sure to have all modules installed. Use ``pip3 install -r requirements.tx``
 
 
