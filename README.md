@@ -3,7 +3,7 @@
   <p align="center">
     A simple piece of code to animate your Disocrd status
     <br />
-    <a href="https://github.com/semmoolenschot/Discord-Animated-Status-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/semmoolenschot/Discord-Animated-Status-tracker"><strong>Explore»</strong></a>
     <br />
     <br />
     <a href="https://github.com/semmoolenschot/Discord-Animated-Status/issues">Report Bug</a>
