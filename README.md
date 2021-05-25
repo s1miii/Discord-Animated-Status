@@ -16,33 +16,26 @@
 - [How to use](#how-to-use)
 - [Features](#features)
 - [Contact](#contact)
----
 
-## Description
+# Description
 
-#### Status
+### Status
 
 - Your Discord status can be used to let other people on the app know whether you're online/offline or you can set a custom status. By using this code you can stand out and animate this status by looping the text and using emojis.
 
----
-
-#### Features
+### Features
 - Pick a delay for the loop of your status
 - Set a custom emoji
 
----
-
-## How to use
+### How to use
 
 - Use ``python3 animate.py``
 - Make sure to have all modules installed. Use ``pip3 install -r requirements.tx``
 
-
 - This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
 
----
 
-## Contact
+### Contact
 
 - <img width="16" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png"> Discord: sem#4744
 - <img width="16" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Github profile: https://github.com/semmoolenschot
